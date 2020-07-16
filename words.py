@@ -7,7 +7,7 @@ def load_words():
     """
     Ye function kaafi jayada words ko load karne mai help karega
     """
-    word_list = ["navgurukul", "learning", "kindness"]
+#     word_list = ["navgurukul", "learning", "kindness"]
     return word_list
 
 def choose_word():
